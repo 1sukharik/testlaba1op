@@ -1,6 +1,8 @@
-#inclide "iostream"
+#include "iostream"
+
 using namespace std;
-int main(){
-cout<<"r";
-  
+
+int main() {
+    cout << "r";
+
 }
